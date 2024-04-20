@@ -1,2 +1,4 @@
 // this is file a
+//this is the changes from b2
 //this is another line of the file
+//this is the changes from B3
